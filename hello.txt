@@ -1,3 +1,4 @@
 Hello,Devops Enthusiast!
 
 welcome to day 1 : what is a repository
+day 3 : git/github
